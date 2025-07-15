@@ -5,8 +5,8 @@ import validaciones.ValidacionesLibro;
 
 import org.junit.jupiter.api.Test;
 
-import controller.LibroController;
-import modelo.Book;
+import controllers.LibroController;
+import models.Book;
 
 import java.util.List;
 import java.util.Map;

@@ -1,7 +1,8 @@
-package controller;
+package controllers;
 
-import modelo.Book;
 import java.util.*;
+
+import models.Book;
 
 public class LibroController {
 
